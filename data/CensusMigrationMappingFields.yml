@@ -1,0 +1,267 @@
+Workbook:
+  - PrimaryTab:
+      - patientIntake
+      - basicInfo
+      - demographics
+      - referral
+    SecondaryTab:  
+      - Contacts
+      - Diagnoses
+      - Payor
+      - Physician
+      - Scheduling
+      - Clinical
+legacyNo: Patient ID in Legacy system
+MR No in HCHB: MR No in HCHB
+Patient Type: Patient Type
+EOB Type: EOB Type
+patientIntake:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Service Line: Service Line
+  Start of Care : Start of Care
+  Start of Episode: Start of Episode
+  End of Episode : End of Episode
+  Coverage Date: Coverage Date
+  Branch Code: Branch Code
+  Assigned Team: Assigned Team
+  Location: Location
+  Last Name: Last Name
+  First Name: First Name
+  Middle Initial: Middle Initial
+  Gender: Gender
+  DOB: DOB
+  SSN: SSN
+  Race: Race
+  Nick Name: Nick Name
+  Legacy MR Number: Legacy MR Number
+  Marrital Status: Marrital Status
+  Primary Spoken Language: Primary Spoken Language
+  Religion: Religion
+  Living Arrangements: Living Arrangements
+  Service Location Type: Service Location Type
+  Service Location/Facility Name: Service Location/Facility Name
+  Room No: Room No
+  Phone: Phone
+  Street: Street
+  Zip Code: Zip Code
+  City: City
+  State: State
+  County: County
+  Municipality Code: Municipality Code
+  Evacuation Zone: Evacuation Zone
+  Mailing Address: Mailing Address
+  Travel Directions: Travel Directions
+  Service Location Notes: Service Location Notes
+  Patient Primary Phone: Patient Primary Phone
+  Patient Alternate Phone: Patient Alternate Phone
+  Patient Email Address: Patient Email Address
+  HCHB Start Date: HCHB Start Date
+  Number of Discharges: DischargeCount
+  Discharge 1 - EOB Date: Discharge 1 - EOB Date
+  Discharge 1 -Last Day on Service: Discharge 1 -Last Day on Service
+  Discharge 2 - EOB Date: Discharge 2 - EOB Date
+  Discharge 2 -Last Day on Service: Discharge 2 -Last Day on Service
+  Discharge 3 - EOB Date: Discharge 3 - EOB Date
+  Discharge 3 -Last Day on Service: Discharge 3 -Last Day on Service
+  Discharge 4 - EOB Date: Discharge 4 - EOB Date
+  Discharge 4 -Last Day on Service: Discharge 4 -Last Day on Service
+  Discharge 5 - EOB Date: Discharge 5 - EOB Date
+  Discharge 5 -Last Day on Service: Discharge 5 -Last Day on Service
+  Referral Date: Referral Date
+  Referral Taken By: Referral Taken By
+  Referral Source: Referral Source
+  Referring Physician/ Facility/ Referral contact: Referring Physician/ Facility/ Referral contact
+  Referring Physician Contact/ Facility Contact or Relationship to Patient: Referring Physician Contact/ Facility Contact or Relationship to Patient
+  Referring Physician/ Facility NPI: Referring Physician/ Facility NPI
+  Actual AC credited with Referral: Actual AC credited with Referral
+  Homecare Coordinator: Homecare Coordinator
+  Hear about the company: Hear about the company
+  Care Type: Care Type
+  Care Type Date: Care Type Date
+  WF1 Status: WF1 Status
+  WF2 Status: WF2 Status
+  WF3 Status: WF3 Status
+  WF4 Status: WF4 Status
+  WF5 Status: WF5 Status
+  WF1 Run Count: WF1 Run Count
+  WF2 Run Count: WF2 Run Count
+  WF3 Run Count: WF3 Run Count
+  Launch Tab: Launch Tab
+  Comments: Comments
+  Notes: Notes
+  ProcessedDate: ProcessedDate
+  HCHBAccount: HCHBAccount
+  RunMachine: RunMachine
+  CTI Date: CTI Date
+basicInfo:
+  Serial Number: Row Number
+  Branch Code: Branch Code
+  Assigned Team: Assigned Team
+  Location: Location
+  Last Name: Last Name
+  First Name: First Name
+  Middle Initial: Middle Initial
+demographics:
+  Serial Number: Row Number
+  Gender: Gender
+  DOB: DOB
+  SSN: SSN
+  Race: Race
+  Nick Name: Nick Name
+  Legacy MR Number: Legacy MR Number
+  Marrital Status: Marrital Status
+  Primary Spoken Language: Primary Spoken Language
+  Religion: Religion
+  Living Arrangements: Living Arrangements
+  Service Location Type: Service Location Type
+  Service Location/Facility Name: Service Location/Facility Name
+  Room No: Room No
+  Phone: Phone
+  Street: Street
+  Zip Code: Zip Code
+  City: City
+  State: State
+  County: County
+  Municipality Code: Municipality Code
+  Evacuation Zone: Evacuation Zone
+  Mailing Address: Mailing Address
+  Travel Directions: Travel Directions
+  Service Location Notes: Service Location Notes
+  Patient Primary Phone: Patient Primary Phone
+  Patient Alternate Phone: Patient Alternate Phone
+  Patient Email Address: Patient Email Address
+  HCHB Start Date: HCHB Start Date
+  Number of Discharges: DischargeCount
+  Discharge 1 - EOB Date: Discharge 1 - EOB Date
+  Discharge 1 -Last Day on Service: Discharge 1 -Last Day on Service
+  Discharge 2 - EOB Date: Discharge 2 - EOB Date
+  Discharge 2 -Last Day on Service: Discharge 2 -Last Day on Service
+  Discharge 3 - EOB Date: Discharge 3 - EOB Date
+  Discharge 3 -Last Day on Service: Discharge 3 -Last Day on Service
+  Discharge 4 - EOB Date: Discharge 4 - EOB Date
+  Discharge 4 -Last Day on Service: Discharge 4 -Last Day on Service
+  Discharge 5 - EOB Date: Discharge 5 - EOB Date
+  Discharge 5 -Last Day on Service: Discharge 5 -Last Day on Service
+referral:
+  Serial Number: Row Number
+  Referral Date: Referral Date
+  Referral Taken By: Referral Taken By
+  Referral Source: Referral Source
+  Referring Physician/ Facility/ Referral contact: Referring Physician/ Facility/ Referral contact
+  Referring Physician Contact/ Facility Contact or Relationship to Patient: Referring Physician Contact/ Facility Contact or Relationship to Patient
+  Referring Physician/ Facility NPI: Referring Physician/ Facility NPI
+  Actual AC credited with Referral: Actual AC credited with Referral
+  Homecare Coordinator: Homecare Coordinator
+  Hear about the company: Hear about the company
+  Care Type: Care Type
+Contacts:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Patient Contact Type: Patient Contact Type
+  Contact Last Name: Contact Last Name
+  Contact First Name: Contact First Name
+  Relationship to Patient: Relationship to Patient
+  Primary Spoken Language: Primary Spoken Language
+  Primary Religion: Primary Religion
+  Primary Phone: Primary Phone
+  Alternate Phone: Alternate Phone
+  Email Address: Email Address
+  Street: Street
+  Zip Code: Zip Code
+  City: City
+  State: State
+  Home Phone: Home Phone
+  Availability: Availability
+  Comment: Comment
+  Bereavement: Bereavement
+  Send Satisfaction Survey: Send Satisfaction Survey
+  Primary CareGiver: Primary CareGiver
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+Diagnoses:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Type: Type
+  ICD-10 CODE: ICD-10 CODE
+  Onset/ Exacerbation: Onset/ Exacerbation
+  Onset/ Exacerbation Date: Onset/ Exacerbation Date
+  Symptom Control Rating: Symptom Control Rating
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+Payor:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Payor Type: Payor Type
+  Payor Source: Payor Source
+  Patient Relationship to Insured: Patient Relationship to Insured
+  List on claim as: List on claim as
+  Supply Billing: Supply Billing
+  Episode Length: Episode Length
+  Claim Benefit date: Claim Benefit date
+  Payor Code: Payor Code
+  Secondary Identification: Secondary Identification
+  Prioirity of Admission or Visit: Prioirity of Admission or Visit
+  Payor Admission Source: Payor Admission Source
+  Payor Number (MBI/MEDICAID/Medicare No of Commercial Insurance): Payor Number
+  HICN Number: HICN Number
+  POLICY Number: POLICY Number
+  Group / Plan No: Group / Plan No
+  Group / Plan Name: Group / Plan Name
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+Physician:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Physician Name: Physician Name
+  Physician NPI: Physician NPI
+  Date last seen: Date last seen
+  Attending/ Primary physician for Orders: Attending/ Primary physician for Orders
+  Part of Referral process: Part of Referral process
+  Hospice Medical Director: Hospice Medical Director
+  NPI Medical Director: NPI Medical Director
+  Service Code: Service Code
+  Edit Agency Taken Date: Agency Taken Date
+  Edit Date of Face to Face Encounter: Date of Face to Face Encounter
+  Date of Planned Face to Face Encounter: Date of  Planned Face to Face Encounter
+  Method for documenting Encounter: Method for documenting Encounter
+  Add Agency Taken Date: Agency Taken Date Add
+  Add Date of Face to Face Encounter: Date of Face to Face Encounter Add
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+Scheduling: 
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Requested date of evaluation: Requested date of evaluation
+  Admitting Discipline: Admitting Discipline
+  Scheduling Acuity: Scheduling Acuity
+  Add on Evaluation: Add on Evaluation
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+Clinical:
+  Serial Number: Row Number
+  Patient ID in Legacy system: Patient ID in Legacy system
+  MR No in HCHB: MR No in HCHB
+  Medication Name: Medication Name 
+  Dosage: Dosage
+  Dosage UOM: Dosage UOM
+  Frequency: Frequency
+  Medication Start Date: Medication Start Date
+  Reason: Reason
+  Instructions: Instruction
+  PRN: PRN
+  Status: Status
+  Notes: Notes
+  Comments: Comments
+##-------Close------##
